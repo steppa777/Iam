@@ -8,7 +8,7 @@ import Divider from '../components/Divider/Divider';
 
 const Home: React.FC = () => (
   <Layout>
-    <Balance balance={1325.5} currency='EURO' currencySymbol='€' />
+    <Balance balance={977651325.5} currency='DOLLAR'currencySymbol='$' />
 
     <Actions />
 
